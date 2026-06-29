@@ -98,12 +98,3 @@ Revisar `requirements.txt`. Ejemplos clave:
 - Añadir evaluación automática con ejemplos anotados para medir consistencia del análisis.
 
 ## Contribuciones
-
-Si deseas mejorar el proyecto:
-1. Haz un fork y crea una rama nueva.
-2. Añade tests o ejemplos en `datos/`.
-3. Abre un pull request describiendo los cambios.
-
-## Licencia y contacto
-
-Indica aquí la licencia (ej. MIT) y un correo o link de contacto si lo deseas.
