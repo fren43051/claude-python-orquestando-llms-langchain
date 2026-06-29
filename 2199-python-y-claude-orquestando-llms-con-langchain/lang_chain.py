@@ -6,8 +6,8 @@ if sys.stdout.encoding != 'utf-8':
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 from langchain_anthropic import ChatAnthropic
-# from langchain_openai import ChatOpenAI
-from my_keys import CLAUDE_API_KEY, CLAUDE_MODEL_NAME  # , QWEN_API_KEY, QWEN_MODEL_NAME
+from langchain_openai import ChatOpenAI
+from my_keys import CLAUDE_API_KEY, CLAUDE_MODEL_NAME, QWEN_API_KEY, QWEN_MODEL_NAME
 from my_helper import encode_image
 from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
 from langchain_core.output_parsers import StrOutputParser, JsonOutputParser
