@@ -2,12 +2,20 @@
   <dictionary name="project">
     <words>
       <w>Asume</w>
+      <w>Cadenas</w>
+      <w>Clientes</w>
+      <w>Coloca</w>
       <w>Configurar</w>
       <w>Cuáles</w>
       <w>Descripción</w>
+      <w>Detalles</w>
+      <w>Ejecución</w>
       <w>Etiquetas</w>
+      <w>Modelos</w>
+      <w>adecuado</w>
       <w>analisis</w>
       <w>analista</w>
+      <w>analizada</w>
       <w>analizar</w>
       <w>aquí</w>
       <w>canales</w>
@@ -16,9 +24,12 @@
       <w>compuesta</w>
       <w>comunicación</w>
       <w>consiste</w>
+      <w>descripcion</w>
       <w>descripción</w>
+      <w>detallada</w>
       <w>enfocado</w>
       <w>estándar</w>
+      <w>etiquetas</w>
       <w>extraer</w>
       <w>formato</w>
       <w>imágenes</w>
@@ -46,6 +57,7 @@
       <w>sobre</w>
       <w>tarea</w>
       <w>telefonos</w>
+      <w>titulo</w>
       <w>utilizando</w>
     </words>
   </dictionary>
